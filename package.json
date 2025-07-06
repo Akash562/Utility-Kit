@@ -1,6 +1,6 @@
 {
   "name": "@npm_akash/utility-kit",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,13 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash562/Utility-Kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akash562/Utility-Kit/issues"
   },
   "author": "akash2025",
   "license": "MIT",

@@ -1,12 +1,10 @@
 # @npm_akash/utility-kit
 
-A lightweight utility package for JavaScript and React Native projects.  
-Includes reusable helpers for 
+A lightweight utility package for JavaScript projects.
 
 - Google Api (upcoming)
 
 ---
-
 
 ## 🚀 Features
 
@@ -18,7 +16,7 @@ Includes reusable helpers for
 
 - ✅ Get All 200+ countries
 - ✅ Get All Timezone
-- ✅ Check Password (Strong ot Not) 
+- ✅ Check Password (Strong or Not) 
 
 ---
 
@@ -31,9 +29,13 @@ npm install @npm_akash/utility-kit
 
 ## 🧰 Available Utilities
 
-```bash
-import { numberListGenerator,atozAlphabet, sendRandom4Digit,sendRandom4Alphabet } from '@npm_akash/utility-kit';
-```
+<pre> 
+import { 
+    numberListGenerator, atozAlphabet, 
+    sendRandom4Digit, sendRandom4Alphabet, 
+    getCountryInfo, getTimezoneInfo, passwordTesting,
+    } from '@npm_akash/utility-kit';
+</pre>
 ---
 
 ## 📝 License
