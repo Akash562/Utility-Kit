@@ -1,0 +1,20 @@
+{
+  "name": "@npm_akash/utility-kit",
+  "version": "1.0.6",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Country Name",
+    "Country",
+    "Phone Number",
+    "Country Code"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "akash2025",
+  "license": "MIT",
+  "description": "common library by akash kumar "
+}
